@@ -27,8 +27,8 @@ Welcome to my personal portfolio! This project showcases my journey as a develop
 
 📫 Contact
 Feel free to reach out if you have any questions or collaboration ideas:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Email**: [your-email@example.com](boinayashwanth@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/yaswanth-boina)
 
 
 🌐 Live Demo
